@@ -2,7 +2,7 @@
 
 # Check if a file path is provided
 if [ -z "$1" ]; then
-  echo "Usage: $0 <file_path>"
+  echo "Usage: $0 </scriptrepo>"
   exit 1
 fi
 
