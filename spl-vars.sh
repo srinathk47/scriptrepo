@@ -6,4 +6,4 @@ echo "Number of variables passed: $#"
 
 echo "script name: $0"
 echo "Current working directory: $PWD"
-echo "Home directory of current user: $Home"
+echo "Home directory of current user: $HOME"
