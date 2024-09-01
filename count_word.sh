@@ -4,7 +4,7 @@
 
 # Check if a file path is provided
 if [ -z "$1" ]; then
-  echo "Usage: $0 <file_path>"
+  echo "Usage: $0 /home/ec2-user/"
   exit 1
 fi
 
