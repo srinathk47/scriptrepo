@@ -6,7 +6,7 @@ touch file3.txt
 
 
 # Variables
-DIRECTORY="/path/to/your/directory"
+DIRECTORY="/home/ec2-user/scriptrepo"
 SEARCH_STRING="old_string"
 REPLACE_STRING="new_string"
 
